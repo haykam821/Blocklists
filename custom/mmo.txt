@@ -1,0 +1,9 @@
+moomoo.io###adCard
+moomoo.io##.menuCard#adCard
+moomoo.io###followText
+moomoo.io###downloadButtonContainer
+moomoo.io###promoImgHolder
+foes.io###downloadButtonContainer
+foes.io###adCard
+mope.io###moneyRectangle
+mope.io###moneyRectBottom
