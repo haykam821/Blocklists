@@ -7,10 +7,15 @@
 !
 moomoo.io###adCard
 moomoo.io##.menuCard#adCard
-moomoo.io###followText
 moomoo.io###downloadButtonContainer
 moomoo.io###promoImgHolder
+moomoo.io###youtuberOf
+moomoo.io###followText
+moomoo.io###twitterFollow
+moomoo.io###youtubeFollow
+
 foes.io###downloadButtonContainer
 foes.io###adCard
+
 mope.io###moneyRectangle
 mope.io###moneyRectBottom
