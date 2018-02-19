@@ -33,5 +33,4 @@ deeeep.io###ad-container
 deeeep.io###___ytsubscribe_0
 
 zombs.io##.hud-intro-youtuber
-zombs.io##.ad-unit
-zombs.io###ifrmAd
+zombs.io##.ad-unit + *
