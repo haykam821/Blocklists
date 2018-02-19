@@ -31,3 +31,6 @@ deeeep.io###cross-promo
 deeeep.io###follow-button
 deeeep.io###ad-container
 deeeep.io###___ytsubscribe_0
+
+zombs.io##.hud-intro-youtuber
+zombs.io##.ad-unit
