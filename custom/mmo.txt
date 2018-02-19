@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Version:
-! Title: MMO List
+! Title: Haykam's MMO List
 ! Last modified:
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/haykam821/Blocklists/
