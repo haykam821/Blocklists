@@ -34,3 +34,7 @@ deeeep.io###___ytsubscribe_0
 
 zombs.io##.hud-intro-youtuber
 zombs.io##.ad-unit
+
+slither.io###twth
+slither.io###fbh
+slither.io###social
