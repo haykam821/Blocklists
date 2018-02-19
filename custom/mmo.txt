@@ -16,6 +16,16 @@ moomoo.io###youtubeFollow
 
 foes.io###downloadButtonContainer
 foes.io###adCard
+foes.io###shareContainer
 
 mope.io###moneyRectangle
 mope.io###moneyRectBottom
+mope.io###appsDiv
+mope.io###moneyRectBottomWrap
+
+diep.io###ad
+
+deeeep.io##.img-ad
+deeeep.io###mobile-links-container
+deeeep.io###cross-promo
+deeeep.io###follow-button
