@@ -29,3 +29,5 @@ deeeep.io##.img-ad
 deeeep.io###mobile-links-container
 deeeep.io###cross-promo
 deeeep.io###follow-button
+deeeep.io###ad-container
+deeeep.io###___ytsubscribe_0
