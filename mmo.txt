@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 1.0.0
+! Version: 2.0.0
 ! Title: Haykam's MMO List
 ! Expires: 4 days
 ! Homepage: https://github.com/haykam821/Blocklists/
@@ -37,3 +37,25 @@ zombs.io##.ad-unit
 slither.io###twth
 slither.io###fbh
 slither.io###social
+
+agar.io###advertisement
+agar.io###mcbanners-container
+
+stabby.io###crosspromodiv
+
+wings.io###mpu-top
+wings.io##.form-group > center:nth-of-type(1) > .text-muted
+wings.io##hr:nth-of-type(2)
+wings.io###twitter-widget-0
+||wings.io/images/powerline_banner.png$image
+||wings.io/images/playfriendstext.png$image
+||wings.io/images/playfriendsarrow.png$image
+
+astroe.io###shareButtons
+astroe.io###adPanel
+
+pockey.io###promo
+
+teamball.io###astrix
+teamball.io###logincontainer > div
+
